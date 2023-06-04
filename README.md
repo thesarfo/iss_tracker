@@ -22,7 +22,7 @@ This is a Python script that tracks the International Space Station (ISS) using 
 5. Make sure your computer is turned on and connected to the internet.
 6. Open a terminal or command prompt.
 7. Navigate to the directory where the `track.py` file is located.
-8. Run the script using the command: `python iss_tracking.py`
+8. Run the script using the command: `python track.py`
 
 The script will continuously check if the ISS is overhead and if it's nighttime at your location. If both conditions are met, it will send an email notification to the specified email address.
 

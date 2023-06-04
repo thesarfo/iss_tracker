@@ -11,7 +11,7 @@ This is a Python script that tracks the International Space Station (ISS) using 
 
 ## How to Run
 
-1. Clone the repository or download the `iss_tracking.py` file.
+1. Clone the repository or download the `track.py` file.
 2. Open the `track.py` file in a text editor.
 3. Modify the following variables with your information:
    - `MY_LAT`: Your latitude coordinate (e.g., 51.507351)
